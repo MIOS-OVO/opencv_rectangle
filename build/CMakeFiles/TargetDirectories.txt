@@ -1,0 +1,3 @@
+/home/mios/opencv_rectangle/build/CMakeFiles/rect_detect.dir
+/home/mios/opencv_rectangle/build/CMakeFiles/edit_cache.dir
+/home/mios/opencv_rectangle/build/CMakeFiles/rebuild_cache.dir
